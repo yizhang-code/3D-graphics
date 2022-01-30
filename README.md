@@ -12,7 +12,7 @@ The code is very simple to use,
 ```
 python3 show_3d_object.py object.txt
 ```
-It uses an input *.txt file, passing as an argument when running the .py file, the object.txt file contains nodes and edges infomation, 
+It uses an input ```object.txt``` file, passing as an argument when running the ```show_3d_object.py.py``` file, the ```object.txt``` file contains nodes and edges infomation, 
 one sample example like following,
 ```
 6,8
